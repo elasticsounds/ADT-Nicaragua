@@ -1,0 +1,57 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "90-2",
+  "pageNumberText": "Pag. 90 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_90_1.json",
+  "nextPage": "",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "ChoiceRedirect",
+  "content": [
+    {
+      "name": "ex_2_landscape_3.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/ex_2_landscape_2.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/yes.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.1,
+        "x": 0.6
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "ChoiceRedirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/no.png",
+      "textDescription": "assets/jsons/cmm_book_90_3_0.json",
+      "position": {
+        "y": 0.1,
+        "x": 0.85
+      }
+    }
+  ]
+}

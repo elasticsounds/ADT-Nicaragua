@@ -1,0 +1,101 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "71-1",
+  "pageNumberText": "Pag. 71 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_70_6.json",
+  "nextPage": "assets/jsons/cmm_book_71_2_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Toggle",
+  "content": [
+    {
+      "name": "txt_ex_1_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.23
+      }
+    },
+    {
+      "name": "txt_ex_1_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "txt_ex_1_body.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_1_body.png",
+      "textDescription": "assets/jsons/cmm_book_71_1_2.json",
+      "position": {
+        "y": 0.4,
+        "x": 0.22
+      }
+    },
+    {
+      "name": "txt_ex_1_size.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_1_size.png",
+      "textDescription": "assets/jsons/cmm_book_71_1_3.json",
+      "position": {
+        "y": 0.4,
+        "x": 0.42
+      }
+    },
+    {
+      "name": "txt_ex_1_color.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_1_color.png",
+      "textDescription": "assets/jsons/cmm_book_71_1_4.json",
+      "position": {
+        "y": 0.4,
+        "x": 0.62
+      }
+    },
+    {
+      "name": "txt_ex_1_displacement.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_1_displacement.png",
+      "textDescription": "assets/jsons/cmm_book_71_1_5.json",
+      "position": {
+        "y": 0.4,
+        "x": 0.82
+      }
+    }
+
+  ]
+}
+  
+  

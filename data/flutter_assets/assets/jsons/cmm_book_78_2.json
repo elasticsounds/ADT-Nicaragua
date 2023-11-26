@@ -1,0 +1,120 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "78-2",
+  "pageNumberText": "Pag. 78 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_78_1.json",
+  "nextPage": "assets/jsons/cmm_book_78_3.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+   
+    {
+      "name": "txt_ex_2_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_78/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.2
+      }
+    },
+    {
+      "name": "txt_ex_2_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_78/txt_ex_2_objective.png",
+      "position": {
+        "y": 0.86,
+        "x": 0.5
+      }
+    }, 
+   
+    {
+      "name": "ex_2_chamomile.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_78/ex_2_chamomile.png",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.42,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "ex_2_rosebush.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_78/ex_2_rosebush.png",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.42,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "ex_2_eucalyptus.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_78/ex_2_eucalyptus.png",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.42,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_cactus.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_78/ex_2_cactus.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.42,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ex_2_lemon_grass.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_78/ex_2_lemon_grass.png",
+      "tabIndex": 5,
+      "position": {
+        "y": 0.42,
+        "x": 0.9
+      }
+    }
+    
+  ]
+}

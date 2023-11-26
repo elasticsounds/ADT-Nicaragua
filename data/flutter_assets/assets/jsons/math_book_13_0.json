@@ -1,0 +1,207 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "13",
+  "pageNumberText": "trece",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_12_4.json",
+  "nextPage": "assets/jsons/math_book_13_1.json",
+  "signalLangVideo": "assets/videos/pg_13_descripcion.mp4",
+  "narratorAudio": "audios/pg_13_descripcion.mp3",
+  "backgroundImage": "assets/images/page_13/background.png",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "audios/glossary_cusuco.mp3",
+    "video": "assets/videos/glossary_cusuco.mp4",
+    "title": "Cusuco\n(Armadillo)",
+    "description": "Es un animal que vive en el campo, con una concha o\ncaparazón sobre su espalda, con cuerpo pequeño, cola\ny patas pequeñas.",
+    "img": "assets/images/page_13/cusuco.png"
+  },
+  "content": [
+    {
+      "name": "title",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_13_descripcion.mp3"],
+      "videoAccessibility": "assets/videos/pg_13_descripcion.mp4",
+      "urlImage": "assets/images/page_13/txt_pg_13_title.png",
+      "textDescription": "",
+      "textStyle": {
+        "isBold": true
+      },
+      "position": {
+        "y": 1.0,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_13_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_13_orientacion.mp4",
+      "urlImage": "assets/images/page_13/sol.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.95,
+        "x": 0.4
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_13/tree_apple.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.7,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/jirafa_2.mp3"],
+      "videoAccessibility": "assets/videos/jirafa_2.mp4",
+      "urlImage": "assets/images/page_13/jirafa#2.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.65,
+        "x": 0.8
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_13/balon#1.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.42,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_13/tree_orange.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.9
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_13/flores.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.1,
+        "x": 0.9
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/tigre_3.mp3"],
+      "videoAccessibility": "assets/videos/tigre_3.mp4",
+      "urlImage": "assets/images/page_13/tigre#3.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.1,
+        "x": 0.6
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/tigre_3.mp3"],
+      "videoAccessibility": "assets/videos/tigre_3.mp4",
+      "urlImage": "assets/images/page_13/tigre#2.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.1,
+        "x": 0.4
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/tigre_3.mp3"],
+      "videoAccessibility": "assets/videos/tigre_3.mp4",
+      "urlImage": "assets/images/page_13/tigre#1.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.1,
+        "x": 0.2
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/cusuco_5.mp3"],
+      "videoAccessibility": "assets/videos/cusuco_5.mp4",
+      "urlImage": "assets/images/page_13/armadillos.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/mariposa.mp3"],
+      "videoAccessibility": "assets/videos/mariposa.mp4",
+      "urlImage": "assets/images/page_13/mariposa.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.6,
+        "x": 0.01
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/jirafa_2.mp3"],
+      "videoAccessibility": "assets/videos/jirafa_2.mp4",
+      "urlImage": "assets/images/page_13/jirafa#1.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.65,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_13/balon#1.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.53,
+        "x": 0.6
+      }
+    }
+  ]
+}

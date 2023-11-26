@@ -1,0 +1,147 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "64-2",
+  "pageNumberText": "Pag. 64 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_64_1.json",
+  "nextPage": "assets/jsons/cmm_book_65_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "audios/cmm/pg_64_act_2.mp3",
+  "backgroundImage": "",
+  "exerciseType": "Positioned",
+  "content": [
+    {
+      "name": "txt_ex_2_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pg_64_act_2.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.35
+      }
+    },
+    {
+      "name": "txt_ex_2_objective_2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pg_64_act_2.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/txt_ex_2_objective_2.png",
+      "position": {
+        "y": 0.8,
+        "x": 0.52
+      }
+    }, 
+    {
+      "name": "ex_2_picture_box.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/ex_2_picture_box.png",
+      "position": {
+        "y": 0.15,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "ex_2_picture_box.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/ex_2_picture_box.png",
+      "position": {
+        "y": 0.15,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_picture_box.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/ex_2_picture_box.png",
+      "position": {
+        "y": 0.15,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "ex_2_chair.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/wood_chair.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/ex_2_chair.png",
+      "tabIndex": 1,
+      "textDescription": "3",
+      "imgDecoration": {
+        "useSuccessBG": true
+      },
+      "position": {
+        "y": 0.56,
+        "x": 0.27
+      },
+      "future_position": {
+        "y": 0.15,
+        "x": 0.77
+      }
+    },
+    {
+      "name": "ex_2_boards.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/wooden_boards.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/ex_2_boards.png",
+      "tabIndex": 2,
+      "textDescription": "2",
+      "imgDecoration": {
+        "useSuccessBG": true
+      },
+      "position": {
+        "y": 0.56,
+        "x": 0.52
+      },
+      "future_position": {
+        "y": 0.15,
+        "x": 0.52
+      }
+    },
+    {
+      "name": "ex_2_stem.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/tree_trunks.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_64/ex_2_stem.png",
+      "tabIndex": 3,
+      "textDescription": "1",
+      "imgDecoration": {
+        "useSuccessBG": true
+      },
+      "position": {
+        "y": 0.56,
+        "x": 0.77
+      },
+      "future_position": {
+        "y": 0.15,
+        "x": 0.27
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "82-1",
+  "pageNumberText": "Pag. 82 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_81_2.json",
+  "nextPage": "assets/jsons/cmm_book_82_2.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "ChoiceRedirect",
+  "content": [
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.35
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+     {
+      "name": "txt_ex_1_expli_4.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_1_expli_4.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "ChoiceRedirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/true.png",
+      "textDescription": "assets/jsons/cmm_book_82_2.json",
+      "position": {
+        "y": 0.2,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/false.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.2,
+        "x": 0.72
+      }
+    }
+  ]
+}

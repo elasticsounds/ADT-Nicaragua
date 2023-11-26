@@ -1,0 +1,97 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "79-1",
+  "pageNumberText": "Pag. 79 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_78_4.json",
+  "nextPage": "assets/jsons/cmm_book_80_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "ChoiceRedirect",
+  "content": [
+    {
+      "name": "txt_ex_1_act.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_79/txt_ex_1_act.png",
+      "position": {
+        "y": 1,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_79/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+     
+    {
+      "name": "ex_1_tangerine.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_79/ex_1_tangerine.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_1_tomato.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_79/ex_1_tomato.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.47
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_79/fruit.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.05,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "ChoiceRedirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_79/begetables.png",
+      "textDescription": "assets/jsons/cmm_book_79_7.json",
+      "position": {
+        "y": 0.05,
+        "x": 0.72
+      }
+    }
+  ]
+}

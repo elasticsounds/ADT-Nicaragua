@@ -1,0 +1,107 @@
+{
+    "name": "Libro de Conociendo Mi Mundo",
+    "grade": "2",
+    "pageNumber": "68-1",
+    "pageNumberText": "Pag. 68 - Actividad 1",
+    "unitNumber": "4",
+    "unitDescription": "",
+    "previusPage": "assets/jsons/cmm_book_67_2.json",
+    "nextPage": "assets/jsons/cmm_book_68_2.json",
+    "signalLangVideo": "assets/videos/cmm/pag_68_act_1_orientation.mp4",
+    "narratorAudio": "audios/cmm/pg_68_act_1.mp3",
+    "backgroundImage": "",
+    "content": [
+      {
+        "name": "txt_ex_1_title.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_68_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_68/txt_ex_1_title.png",
+        "position": {
+          "y": 1,
+          "x": 0.37
+        }
+      },
+      {
+        "name": "txt_ex_1_objective_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_68_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_68/txt_ex_1_objective_2.png",
+        "position": {
+          "y": 0.8,
+          "x": 0.52
+        }
+      },
+      {
+        "name": "txt_ex_1_content.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_68_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_68/txt_ex_1_content.png",
+        "position": {
+          "y": 0.07,
+          "x": 0.5
+        }
+      }, 
+      {
+        "name": "ex_1_cow.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/cow.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/cow.mp4",
+        "urlImage": "assets/images/cmm/page_68/ex_1_cow.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.13
+        }
+      },
+      {
+        "name": "ex_1_hide_1.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/leather.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/piece_of_leather.mp4",
+        "urlImage": "assets/images/cmm/page_68/ex_1_hide_1.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.36
+        }
+      },
+      {
+        "name": "ex_1_hide_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/craftman_leather.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/hands_working_leather.mp4",
+        "urlImage": "assets/images/cmm/page_68/ex_1_hide_2.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.62
+        }
+      },
+      {
+        "name": "ex_1_boots.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/boots.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/boots_and_hat.mp4",
+        "urlImage": "assets/images/cmm/page_68/ex_1_boots.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.88
+        }
+       
+      }
+    ]
+  }

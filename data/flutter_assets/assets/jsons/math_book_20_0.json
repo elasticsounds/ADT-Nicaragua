@@ -1,0 +1,97 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "20-1",
+  "pageNumberText": "Pag. 20 - Ejercicio 1",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_19_6.json",
+  "nextPage": "assets/jsons/math_book_20_1.json",
+  "signalLangVideo": "assets/videos/pg_20_1_orientacion.mp4",
+  "narratorAudio": "audios/pg_20_1_orientacion.mp3",
+  "backgroundImage": "",
+  "exerciseType": "IncrementIndex",
+  "content": [
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_20_1_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_20_1_orientacion.mp4",
+        "urlImage": "assets/images/page_20/txt_main.png",
+        "textDescription": "",
+        "position": {
+            "y": 0.9,
+            "x": 0.15
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_20_1_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_20_1_orientacion.mp4",
+        "urlImage": "assets/images/page_20/txt_ex_1_title.png",
+        "textDescription": "Ejercicio 1.\n\n¿Cuántas flores hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+            "y": 0.8,
+            "x": 0.1
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_20_1_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_20_1_orientacion.mp4",
+        "urlImage": "assets/images/page_20/txt_ex_1_question.png",
+        "textDescription": "Ejercicio 1.\n\n¿Cuántas flores hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+            "y": 0.7,
+            "x": 0.25
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_20_1_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_20_1_orientacion.mp4",
+        "urlImage": "assets/images/page_20/txt_ex_1_desc.png",
+        "textDescription": "Ejercicio 1.\n\n¿Cuántas flores hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+            "y": 0.7,
+            "x": 0.75
+        }
+    },
+    {
+      "name": "grid",
+      "widgetType": "RadioButton",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/grid/zero.png",
+      "textDescription": "8",
+      
+      "position": {
+        "y": 0.35,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "flowers",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/flower_8.mp3"],
+      "videoAccessibility": "assets/videos/flower_8.mp4",
+      "urlImage": "assets/images/page_20/flowers.png",
+      "textDescription": "",      
+      "position": {
+        "y": 0.35,
+        "x": 0.25
+      }
+    }
+  ]
+}

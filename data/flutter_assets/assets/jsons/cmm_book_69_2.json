@@ -1,0 +1,29 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "69-2",
+  "pageNumberText": "Pag. 69 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_69_1.json",
+  "nextPage": "assets/jsons/cmm_book_70_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "assets/images/cmm/page_69/ex_2_background.png",
+  "content": [
+    {
+      "name": "txt_ex_2_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_69/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    }
+  
+  ]
+}

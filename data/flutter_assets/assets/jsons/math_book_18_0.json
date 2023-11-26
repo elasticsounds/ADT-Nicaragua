@@ -1,0 +1,113 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "18",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_17_6.json",
+  "nextPage": "assets/jsons/math_book_18_1.json",
+  "signalLangVideo": "assets/videos/pg_18_orientacion.mp4",
+  "narratorAudio": "audios/pg_18_orientacion.mp3",
+  "backgroundImage": "assets/images/page_18/background.png",
+  "content": [
+    {
+      "name": "wood",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_18/tree3.png",
+      "position": {
+        "y": 1.0,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_18/road.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.85
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_18/tree2.png",
+      "position": {
+        "y": 0.8,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "fishing",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/mouse_9.mp3"],
+      "videoAccessibility": "assets/videos/mouse_9.mp4",
+      "urlImage": "assets/images/page_18/mice_fishing.png",
+      "position": {
+        "y": 0.35,
+        "x": 0.55
+      }
+    },
+    {
+      "name": "wood",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/mouse_9.mp3"],
+      "videoAccessibility": "assets/videos/mouse_9.mp4",
+      "urlImage": "assets/images/page_18/wood.png",
+      "position": {
+        "y": 0.02,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "wood",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/turtle_4.mp3"],
+      "videoAccessibility": "assets/videos/turtle_4.mp4",
+      "urlImage": "assets/images/page_18/turtles.png",
+      "position": {
+        "y": 0.58,
+        "x": 0.26
+      }
+    },
+    {
+      "name": "tree1",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_18/tree1.png",
+      "position": {
+        "y": 0.15,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "pool",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_18/top_background.png",
+      "position": {
+        "y": 1.05,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "pool",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_18_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_18_orientacion.mp4",
+      "urlImage": "assets/images/page_18/txt_main.png",
+      "position": {
+        "y": 1.03,
+        "x": 0.15
+      }
+    }
+  ]
+}

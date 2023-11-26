@@ -1,0 +1,145 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "80-2",
+  "pageNumberText": "Pag. 80 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_80_1.json",
+  "nextPage": "assets/jsons/cmm_book_81_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Positioned",
+  "content": [
+    {
+      "name": "txt_ex_2_act",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_2_act.png",
+      "position": {
+        "y": 1,
+        "x": 0.05
+      }
+    },
+    {
+      "name": "txt_ex_2_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_2_title.png",
+      "position": {
+        "y": 0.97,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "ex_2_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/ex_2_objective.png",
+      "position": {
+        "y": 0.933,
+        "x": 0.78
+      }
+    },
+    {
+      "name": "ex_2_biker_1",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/ex_2_biker_1.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "ex_2_orange",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/ex_2_orange.png",
+      "tabIndex": 1,
+      "textDescription": "1",
+      "position": {
+        "y": 0.6,
+        "x": 0.8
+      },
+      "future_position": {
+        "y": 0.325,
+        "x": 0.262
+      }
+    },
+    {
+      "name": "ex_2_tomato",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/ex_2_tomato.png",
+      "tabIndex": 2,
+      "textDescription": "2",
+      "position": {
+        "y": 0.35,
+        "x": 0.8
+      },
+      "future_position": {
+        "y": 0.61,
+        "x": 0.21
+     }
+    },
+    {
+      "name": "ex_2_chili",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/ex_2_chili.png",
+      "tabIndex": 3,
+      "textDescription": "3",
+      "position": {
+        "y": 0.25,
+        "x": 0.7
+      },
+      "future_position": {
+        "y": 0.3,
+        "x": 0.27
+     }
+    },
+    {
+      "name": "ex_2_banana",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/ex_2_banana.png",
+      "tabIndex": 4,
+      "textDescription": "4",
+      "position": {
+        "y": 0.15,
+        "x": 0.8
+      },
+      "future_position": {
+        "y": 0.7,
+        "x": 0.3
+     }
+    }
+
+  ]
+}

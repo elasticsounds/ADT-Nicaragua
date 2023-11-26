@@ -1,0 +1,97 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "59-1",
+  "pageNumberText": "Pag. 59 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Identifica los seres vivos y los no vivos",
+  "previusPage": "",
+  "nextPage": "",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "ChoiceRedirect",
+  "content": [
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_59/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "txt_ex_1_desciption.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_59/txt_ex_1_description.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_1_vase.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_59/ex_1_vase.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_1_flower.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/flower.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/flower.mp4",
+      "urlImage": "assets/images/cmm/page_59/ex_1_flower.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.5
+      }
+    },
+ 
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "ChoiceRedirect",
+      "audioAccessibility": [
+        "audios/cmm/living_being.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/living_being.mp4",
+      "urlImage": "assets/images/cmm/page_59/txt_ex_1_02.png",
+      "textDescription": "assets/jsons/cmm_book_59_1_6.json",
+      "position": {
+        "y": 0.05,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        "audios/cmm/non_living.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/non_living.mp4",
+      "urlImage": "assets/images/cmm/page_59/txt_ex_1_01.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.05,
+        "x": 0.72
+      }
+    }
+  ]
+}

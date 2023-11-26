@@ -1,0 +1,92 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "17",
+  "pageNumberText": "diecisiete",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_16_9.json",
+  "nextPage": "assets/jsons/math_book_17_1.json",
+  "signalLangVideo": "assets/videos/pg_17_orientacion.mp4",
+  "narratorAudio": "audios/pg_17_orientacion.mp3",
+  "backgroundImage": "assets/images/page_17/background.png",
+  "content": [
+    {
+      "name": "pool",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_17_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_17_orientacion.mp4",
+      "urlImage": "assets/images/page_17/txt_main_title.png",
+      "position": {
+        "y": 1.0,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "pool",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/penguin_8.mp3"],
+      "videoAccessibility": "assets/videos/penguin_8.mp4",
+      "urlImage": "assets/images/page_17/pool.png",
+      "position": {
+        "y": 0.6,
+        "x": 0.35
+      }
+    },
+    {
+      "name": "turtle1",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/turtle_3.mp3"],
+      "videoAccessibility": "assets/videos/turtle_3.mp4",
+      "urlImage": "assets/images/page_17/tortuga1.png",
+      "position": {
+        "y": 0.55,
+        "x": 0.83
+      }
+    },
+    {
+      "name": "turtle2",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/turtle_3.mp3"],
+      "videoAccessibility": "assets/videos/turtle_3.mp4",
+      "urlImage": "assets/images/page_17/tortuga2.png",
+      "position": {
+        "y": 0.35,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "turtle3",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/turtle_3.mp3"],
+      "videoAccessibility": "assets/videos/turtle_3.mp4",
+      "urlImage": "assets/images/page_17/tortuga3.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.66
+      }
+    },
+    {
+      "name": "bridge",
+      "widgetType": "Image",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/page_17/arbol.png",
+      "position": {
+        "y": 0.2,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "bridge",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/crab_10.mp3"],
+      "videoAccessibility": "assets/videos/crab_10.mp4",
+      "urlImage": "assets/images/page_17/bridge.png",
+      "position": {
+        "y": 0.15,
+        "x": 0.6
+      }
+    }    
+  ]
+}

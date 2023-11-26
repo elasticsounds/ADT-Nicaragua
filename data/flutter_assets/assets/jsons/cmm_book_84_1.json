@@ -1,0 +1,30 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "84-1",
+  "pageNumberText": "Pag. 84 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_83_1.json",
+  "nextPage": "assets/jsons/cmm_book_85_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "content": [
+    
+    {
+      "name": "txt",
+      "widgetType": "Text",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "",
+      "textDescription": "Pendiente",
+      "position": {
+        "y": 4,
+        "x": 0.5
+      }
+    }
+  ]
+}

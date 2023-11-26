@@ -1,0 +1,190 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "71-1",
+  "pageNumberText": "Pag. 71 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_71_1_1.json",
+  "nextPage": "assets/jsons/cmm_book_71_2_3.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+    {
+      "name": "txt_ex_2_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.35
+      }
+    },
+    {
+      "name": "txt_ex_2_description",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_2_description.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "txt_ex_2_shell.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_2_shell.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.22
+      }
+    },
+    {
+      "name": "txt_ex_2_feather.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_2_feather.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.20
+      }
+    },
+    {
+      "name": "ex_2_fish.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_fish.png",
+      "textDescription": "false",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.6,
+        "x": 0.48
+      }
+    },
+    {
+      "name": "ex_2_dog.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_dog.png",
+      "textDescription": "false",
+      "tabIndex": 5,
+      "position": {
+        "y": 0.2,
+        "x": 0.48
+      }
+    },
+    {
+      "name": "ex_2_snail.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_snail.png",
+      "textDescription": "false",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.6,
+        "x": 0.63
+      }
+    },
+    {
+      "name": "ex_2_lizard.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_lizard.png",
+      "textDescription": "false",
+      "tabIndex": 6,
+      "position": {
+        "y": 0.2,
+        "x": 0.63
+      }
+    },
+    {
+      "name": "ex_2_cat.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_cat.png",
+      "textDescription": "false",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.6,
+        "x": 0.78
+      }
+    },
+    {
+      "name": "ex_2_heron.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_heron.png",
+      "textDescription": "true",
+      "tabIndex": 7,
+      "position": {
+        "y": 0.2,
+        "x": 0.78
+      }
+    },
+    {
+      "name": "ex_2_chicken.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_chicken.png",
+      "textDescription": "true",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.6,
+        "x": 0.93
+      }
+    },
+    {
+      "name": "ex_2_armadillo.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_2_armadillo.png",
+      "textDescription": "false",
+      "tabIndex": 8,
+      "position": {
+        "y": 0.2,
+        "x": 0.93
+      }
+    }
+  ]
+}
+  
+  

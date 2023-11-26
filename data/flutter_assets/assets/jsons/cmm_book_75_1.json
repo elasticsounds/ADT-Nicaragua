@@ -1,0 +1,65 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "75-1",
+  "pageNumberText": "Pag. 75 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_74_0.json",
+  "nextPage": "assets/jsons/cmm_book_76_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "",
+    "video": "",
+    "title": "Tapir",
+    "description": "",
+    "img": "assets/images/cmm/page_75/ex_1_glossary.png"
+  },
+  "content": [
+  
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_75/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.13
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_75/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.13
+      }
+    },
+    {
+      "name": "ex_1_content.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_75/ex_1_content.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.5
+      }
+    }
+
+  ]
+}

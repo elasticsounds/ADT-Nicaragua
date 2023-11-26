@@ -1,0 +1,39 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "87",
+  "pageNumberText": "Pag. 87",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_86_1.json",
+  "nextPage": "assets/jsons/cmm_book_87_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "",
+    "video": "",
+    "title": "Perseverante",
+    "description": "",
+    "img": "assets/images/cmm/page_87/glossary.png"
+  },
+  "content": [
+  
+    {
+      "name": "ex_background.mp4",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_87/ex_background.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    }
+
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "18-6",
+  "pageNumberText": "Pag. 18 - Ejercicio 6",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_18_5.json",
+  "nextPage": "assets/jsons/math_book_19_0.json",
+  "signalLangVideo": "assets/videos/pg_18_6_orientacion.mp4",
+  "narratorAudio": "audios/pg_18_6_orientacion.mp3",
+  "backgroundImage": "",
+  "exerciseType": "IncrementIndex",
+  "content": [
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_18_6_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_18_6_orientacion.mp4",
+        "urlImage": "assets/images/page_18/txt_ex_6_title.png",
+        "textDescription": "Ejercicio 6.\n\n¿Cuántos cangrejos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+          "y": 0.8,
+          "x": 0.1
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_18_6_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_18_6_orientacion.mp4",
+        "urlImage": "assets/images/page_18/txt_ex_6_question.png",
+        "textDescription": "Ejercicio 6.\n\n¿Cuántos cangrejos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+          "y": 0.7,
+          "x": 0.25
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_18_6_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_18_6_orientacion.mp4",
+        "urlImage": "assets/images/page_18/txt_ex_6_desc.png",
+        "textDescription": "Ejercicio 6.\n\n¿Cuántos cangrejos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+          "y": 0.7,
+          "x": 0.75
+        }
+    },
+    {
+      "name": "grid",
+      "widgetType": "RadioButton",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/grid/zero.png",
+      "textDescription": "10",      
+      "position": {
+        "y": 0.35,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "crab",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/crab_10.mp3"],
+      "videoAccessibility": "assets/videos/crab_10.mp4",
+      "urlImage": "assets/images/page_18/crabs.png",
+      "textDescription": "",      
+      "position": {
+        "y": 0.35,
+        "x": 0.25
+      }
+    }
+  ]
+}

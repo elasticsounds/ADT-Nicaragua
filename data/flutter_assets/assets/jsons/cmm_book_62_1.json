@@ -1,0 +1,89 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "62",
+  "pageNumberText": "Página",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_61_6.json",
+  "nextPage": "assets/jsons/cmm_book_63_1.json",
+  "signalLangVideo": "assets/videos/cmm/pag_62_orientation_description.mp4",
+  "narratorAudio": "audios/cmm/pag_62_orientation.mp3",
+  "backgroundImage": "",
+  "hasGlossary": "true",
+   "glossary": {
+    "audio": "audios/cmm/pag_62_glossary.mp3",
+    "video": "assets/videos/cmm/glossary_de.mp4",
+    "title": "",
+    "description": "                                ",
+    "img": "assets/images/cmm/page_62/ex_2_table.png"
+  },
+  "content": [
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_62_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_62/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_62_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_62/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.88,
+        "x": 0.5
+      }
+    },
+     {
+      "name": "txt_ex_1_content_1.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_62_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_62/txt_ex_1_content_1.png",
+      "position": {
+        "y": 0.8,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "txt_ex_1_content_2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_62_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_62/txt_ex_1_content_2.png",
+      "position": {
+        "y": 0.055,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_1_tomato_video.gif",
+      "widgetType": "Gif",
+      "audioAccessibility": [
+        "audios/cmm/pag_62_audio.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/tomato",
+      "urlImage": "assets/images/cmm/page_62/ex_1_tomato_video.gif",
+      "position": {
+        "y": 0.45,
+        "x": 0.5
+      }
+    }
+   
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "15",
+  "pageNumberText": "quince",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_14_6.json",
+  "nextPage": "assets/jsons/math_book_15_1.json",
+  "signalLangVideo": "assets/videos/pg_15_1_orientaciones.mp4",
+  "narratorAudio": "audios/pg_15_1_orientaciones.mp3",
+  "backgroundImage": "",
+  "exerciseType": "IncrementIndex",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "audios/glossary_jar.mp3",
+    "video": "assets/videos/glossary_jar.mp4",
+    "title": "Jarrón",
+    "description": "Objeto decorativo para depositar líquidos y flores.",
+    "img": "assets/images/page_15/jar_glossary.png"
+  },
+  "content": [
+    {
+      "name": "title",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_15_1_orientaciones.mp3"],
+      "videoAccessibility": "assets/videos/pg_15_1_orientaciones.mp4",
+      "urlImage": "assets/images/page_15/txt_ex_1_title.png",
+      "textDescription": "",
+      "textStyle": {
+        "isBold": true
+      },
+      "position": {
+        "y": 0.8,
+        "x": 0.1
+      }
+    },   
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_15_1_orientaciones.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_15_1_orientaciones.mp4",
+        "urlImage": "assets/images/page_15/txt_ex_1_question.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": true            
+        },
+        "position": {
+          
+          "y": 0.7,
+          "x": 0.25
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_15_1_orientaciones.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_15_1_orientaciones.mp4",
+        "urlImage": "assets/images/page_15/txt_ex_1_desc.png",
+      "textDescription": "",
+        "textStyle": {
+            "isBold": true,
+            "hasBackground": true
+        },
+        "position": {
+            "y": 0.7,
+        "x": 0.75
+        }
+    },
+    {
+      "name": "sun",
+      "widgetType": "RadioButton",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/grid/zero.png",
+      "textDescription": "3",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "sun",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/jarron_3.mp3"],
+      "videoAccessibility": "assets/videos/jarron_3.mp4",
+      "urlImage": "assets/images/page_15/jar.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.25
+      }
+    }
+  ]
+}

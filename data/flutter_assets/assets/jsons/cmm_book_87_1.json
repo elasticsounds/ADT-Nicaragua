@@ -1,0 +1,120 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "87-1",
+  "pageNumberText": "Pag. 87 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_87_0.json",
+  "nextPage": "assets/jsons/cmm_book_88_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+   
+    {
+      "name": "txt_ex_1_title_.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_87/txt_ex_1_title_.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_87/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.86,
+        "x": 0.5
+      }
+    }, 
+   
+    {
+      "name": "ex_1_man.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_87/ex_1_man.png",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.6,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "ex_1_man_2.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_87/ex_1_man_2.png",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.6,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ex_1_man_3.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_87/ex_1_man_3.png",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.2,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "ex_1_man_4.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_87/ex_1_man_4.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.2,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_1_man_5.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_87/ex_1_man_5.png",
+      "tabIndex": 5,
+      "position": {
+        "y": 0.2,
+        "x": 0.85
+      }
+    }
+    
+  ]
+}

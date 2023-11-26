@@ -1,0 +1,164 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "88-1",
+  "pageNumberText": "Pag. 88 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_88_00.json",
+  "nextPage": "assets/jsons/cmm_book_89_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "ChoiceRedirect",
+  "content": [
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.45
+      }
+    },
+    {
+      "name": "ex_1_lora.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/ex_1_lora.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.32
+      }
+    },
+    {
+      "name": "ex_1_tortoise.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/ex_1_tortoise.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.29
+      }
+    },
+    {
+      "name": "ex_1_acelot.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/ex_1_acelot.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.26
+      }
+    },
+    {
+      "name": "ex_1_limpet.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/ex_1_limpet.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.23
+      }
+    },
+    {
+      "name": "ex_1_monkey.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/ex_1_monkey.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.2
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "ChoiceRedirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/txt_ex_1_monkey.png",
+      "textDescription": "assets/jsons/cmm_book_88_2.json",
+      "position": {
+        "y": 0.7,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/txt_ex_1_limpet.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.55,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/txt_ex_1_ocelot.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.4,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/txt_ex_1_tortoise.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.25,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_88/txt_ex_1_lora.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.1,
+        "x": 0.7
+      }
+    }
+  ]
+}

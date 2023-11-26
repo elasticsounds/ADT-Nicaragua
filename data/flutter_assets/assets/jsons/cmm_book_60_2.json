@@ -1,0 +1,97 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "60-2",
+  "pageNumberText": "Pag. 60 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_60_1.json",
+  "nextPage": "assets/jsons/cmm_book_60_3.json",
+  "signalLangVideo": "assets/videos/cmm/pag_60_act_2.mp4",
+  "narratorAudio": "audios/cmm/pag_60_act_2_orientation.mp3",
+  "backgroundImage": "",
+  "exerciseType": "Choice",
+  "content": [
+    {
+      "name": "txt_ex_2_activity.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_60_act_2_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_60/txt_ex_2_activity.png",
+      "position": {
+        "y": 1,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "txt_ex_2_content.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_60_act_2_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_60/txt_ex_2_content.png",
+      "position": {
+        "y": 0.42,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "ex_2_ball.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/ball.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/ball.mp4",
+      "urlImage": "assets/images/cmm/page_60/ex_2_ball.png",
+      "position": {
+        "y": 0.43,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "txt_ex_1_objetive.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_60_option.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/classify_by_pressing.mp4",
+      "urlImage": "assets/images/cmm/page_60/txt_ex_1_objetive.png",
+      "position": {
+        "y": 0.82,
+        "x": 0.76
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        "audios/cmm/living_being.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/living_being.mp4",
+      "urlImage": "assets/images/cmm/page_60/txt_ex_1_01.png",
+      "textDescription": "false",
+      "position": {
+        "y": 0.05,
+        "x": 0.62
+      }
+    },
+    {
+     "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        "audios/cmm/non_living.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/non_living.mp4",
+      "urlImage": "assets/images/cmm/page_60/txt_ex_1_02.png",
+      "textDescription": "true",
+      "position": {
+        "y": 0.05,
+        "x": 0.87
+      }
+    }
+
+  ]
+}

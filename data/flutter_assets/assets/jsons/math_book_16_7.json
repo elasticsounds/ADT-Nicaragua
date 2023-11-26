@@ -1,0 +1,72 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "16-9",
+  "pageNumberText": "Pag. 16 - Ejercicio 9",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_16_6.json",
+  "nextPage": "assets/jsons/math_book_16_8.json",
+  "signalLangVideo": "assets/videos/pg_16_9_orientacion.mp4",
+  "narratorAudio": "audios/pg_16_9_orientacion.mp3",
+  "backgroundImage": "",
+  "exerciseType": "Choice",
+  "content": [    
+    {
+      "name": "title",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_16_9_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_16_9_orientacion.mp4",
+      "urlImage": "assets/images/page_16/txt_ex_9_title.png",
+      "textDescription": "Ejercicio 9.\n\nSeleccione la imagen que representa el número 3",
+      "textStyle": {
+        "isBold": true
+      },
+      "position": {
+        "y": 0.95,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "title",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_16_9_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_16_9_orientacion.mp4",
+      "urlImage": "assets/images/page_16/txt_ex_9_desc.png",
+      "textDescription": "Ejercicio 9.\n\nSeleccione la imagen que representa el número 3",
+      "textStyle": {
+        "isBold": true
+      },
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "Choice",
+      "audioAccessibility": ["audios/chair_3.mp3"],
+      "videoAccessibility": "assets/videos/chair_3.mp4",
+      "urlImage": "assets/images/page_16/chairs.png",
+      "textDescription": "true",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": ["audios/table.mp3"],
+      "videoAccessibility": "assets/videos/table.mp4",
+      "urlImage": "assets/images/page_16/table.png",
+      "textDescription": "false",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.75
+      }
+    }       
+  ]
+}

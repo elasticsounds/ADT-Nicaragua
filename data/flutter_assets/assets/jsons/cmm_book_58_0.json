@@ -1,0 +1,59 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "58",
+  "pageNumberText": "Página",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_57_0.json",
+  "nextPage": "assets/jsons/cmm_book_58_1.json",
+  "signalLangVideo": "assets/videos/cmm/pag_58_orientation_text.mp4",
+  "narratorAudio": "audios/cmm/pag_58_orientation_text.mp3",
+  "backgroundImage": "",
+  "exerciseType": "Toggle",
+  "content": [
+    {
+      "name": "txt_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_orientation_text.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.2
+      }
+    },
+    {
+      "name": "txt_description",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_orientation_text.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_description.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "Toggle",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/icon_text_toggle.png",
+      "textDescription": "assets/jsons/cmm_book_58_0_alt.json",
+      "position": {
+        "y": 0.98,
+        "x": 0.98
+      }
+    }
+
+  ]
+}
+  
+  

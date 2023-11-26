@@ -1,0 +1,53 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "71-1",
+  "pageNumberText": "Pag. 71 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "",
+  "nextPage": "",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Toggle",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "",
+    "video": "",
+    "title": "Piel desnuda",
+    "description": "",
+    "img": "assets/images/cmm/page_71/txt_ex_1_frog.png"
+  },
+  "content": [
+  
+    {
+      "name": "ex_1_button_x.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_1_button_x.png",
+      "textDescription": "assets/jsons/cmm_book_71_1_1.json",
+      "position": {
+        "y": 0.95,
+        "x": 0.05
+      }
+    },
+    {
+      "name": "ex_1_background_size.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_1_background_size.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    }
+
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "90-1",
+  "pageNumberText": "Pag. 90 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_89_0.json",
+  "nextPage": "assets/jsons/cmm_book_90_2_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+   
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/txt_ex_1_title.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.5
+      }
+    },
+   {
+      "name": "ex_1_landscape_1.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_90/ex_1_landscape_1.png",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.4,
+        "x": 0.2
+      }
+    },
+    {
+      "name": "ex_1_landscape_2.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_90/ex_1_landscape_2.png",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.4,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_1_landscape_3.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_90/ex_1_landscape_3.png",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.4,
+        "x": 0.8
+      }
+    }
+    
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "61-1",
+  "pageNumberText": "Pag. 61 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_60_4.json",
+  "nextPage": "assets/jsons/cmm_book_61_2.json",
+  "signalLangVideo": "assets/videos/cmm/pag_61_act_1_orientation.mp4",
+  "narratorAudio": "audios/cmm/pag_61_act_1_orientation.mp3",
+  "backgroundImage": "",
+  "content": [
+    {
+      "name": "txt_ex_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_61_act_1_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/txt_ex_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.4
+      }
+    },
+    {
+      "name": "ex_land.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/land.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/land.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_land.png",
+      "position": {
+        "y": 0.27,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_seed_1.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/bean_seed_in_soil.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/seed_in_the_ground.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_seed_1.png",
+      "position": {
+        "y": 0.27,
+        "x": 0.35
+      }
+    },
+    {
+      "name": "ex_seed_2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/bean_seed_with_root.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/seed_with_root.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_seed_2.png",
+      "position": {
+        "y": 0.398,
+        "x": 0.425
+      }
+    },
+    {
+      "name": "ex_root_3.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/ex_root_3.png",
+      "position": {
+        "y": 0.32,
+        "x": 0.438
+      }
+    },
+    {
+      "name": "ex_sprout.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/stem_out_of_the_ground.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/grow_stem.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_sprout.png",
+      "position": {
+        "y": 0.43,
+        "x": 0.53
+      }
+    },
+    {
+      "name": "ex_root_2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/ex_root_2.png",
+      "position": {
+        "y": 0.32,
+        "x": 0.527
+      }
+    },
+    {
+      "name": "ex_plant.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/stem_with_flowers.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/leaves_and_flowers.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_plant.png",
+      "position": {
+        "y": 0.6,
+        "x": 0.62
+      }
+    },
+    {
+      "name": "ex_root_1.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/ex_root_1.png",
+      "position": {
+        "y": 0.29,
+        "x": 0.625
+      }
+    }
+
+  ]
+}

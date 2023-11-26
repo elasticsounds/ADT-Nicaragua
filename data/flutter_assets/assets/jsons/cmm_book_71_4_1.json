@@ -1,0 +1,115 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "71-4",
+  "pageNumberText": "Pag. 71 - Actividad 4",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_71_3.json",
+  "nextPage": "",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+    {
+      "name": "txt_ex_4_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_4_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "txt_ex_4_description",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_4_description.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "txt_ex_4_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_4_objective.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "ex_4_squirrel",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/ex_4_hen.gif",
+      "position": {
+        "y": 0.4,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "txt_ex_4_walking",
+      "widgetType": "ChoiceRedirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_4_walking.png",
+      "tabIndex": 1,
+      "textDescription": "assets/jsons/cmm_book_71_5.json",
+      "position": {
+        "y": 0.65,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "txt_ex_4_climbing",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_4_climbing.png",
+      "tabIndex": 2,
+      "textDescription": "false",
+      "position": {
+        "y": 0.45,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "txt_ex_4_crawling",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_71/txt_ex_4_crawling.png",
+      "tabIndex": 3,
+      "textDescription": "false",
+      "position": {
+        "y": 0.25,
+        "x": 0.75
+      }
+    }
+  ]
+}
+  
+  

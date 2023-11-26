@@ -1,0 +1,136 @@
+{
+    "name": "Libro de Conociendo Mi Mundo",
+    "grade": "2",
+    "pageNumber": "65-1",
+    "pageNumberText": "Pag. 65 - Actividad 1",
+    "unitNumber": "4",
+    "unitDescription": "",
+    "previusPage": "assets/jsons/cmm_book_64_2.json",
+    "nextPage": "assets/jsons/cmm_book_65_2.json",
+    "signalLangVideo": "",
+    "narratorAudio": "audios/cmm/pg_65_act_1.mp3",
+    "backgroundImage": "",
+    "content": [
+      {
+        "name": "txt_ex_1_title.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_65_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/txt_ex_1_title.png",
+        "position": {
+          "y": 1,
+          "x": 0.37
+        }
+      },
+      {
+        "name": "txt_ex_1_objective_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_65_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/txt_ex_1_objective_2.png",
+        "position": {
+          "y": 0.8,
+          "x": 0.52
+        }
+      },
+      {
+        "name": "txt_ex_1_content.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_65_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/txt_ex_1_content.png",
+        "position": {
+          "y": 0.07,
+          "x": 0.5
+        }
+      }, 
+      {
+        "name": "ex_1_milker.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/milker.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_milker.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.08
+        }
+      },
+      {
+        "name": "ex_1_milk.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/vase_milk.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_milk.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.25
+        }
+      },
+      {
+        "name": "ex_1_cheese.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/plate_cheese.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_cheese.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.415
+        }
+      },
+      {
+        "name": "ex_1_cream.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/vase_cream.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_cream.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.58
+        }
+       
+      },
+      {
+        "name": "ex_1_caramel.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/vase_caramelsauce.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_caramel.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.75
+        }
+       
+      },
+      {
+        "name": "ex_1_butter.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/butter.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_butter.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.92
+        }
+       
+      }
+
+    ]
+  }

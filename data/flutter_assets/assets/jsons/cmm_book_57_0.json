@@ -1,0 +1,81 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "57",
+  "pageNumberText": "Página",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_frontpage.json",
+  "nextPage": "assets/jsons/cmm_book_58_0.json",
+  "signalLangVideo": "assets/videos/cmm/pag_57_orientacion_descripcion.mp4",
+  "narratorAudio": "audios/cmm/pag_57_orientation_description.mp3",
+  "backgroundImage": "assets/images/cmm/page_1/background.png",
+  "exerciseType": "Index",
+  "content": [
+    {
+      "name": "dog",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/dog.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/dog.mp4",
+      "urlImage": "assets/images/cmm/page_1/dog.png",
+      "position": {
+        "y": 0.18,
+        "x": 0.46
+      }
+    },
+    {
+      "name": "bridge",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/boy_on_a_bridge.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/boy_on_a_bridge.mp4",
+      "urlImage": "assets/images/cmm/page_1/bridge.png",
+      "position": {
+        "y": 0.45,
+        "x": 0.08
+      }
+    },
+    {
+      "name": "horse",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/horse.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_1/horse.png",
+      "position": {
+        "y": 0.25,
+        "x": 0.72
+      }
+    },
+    {
+      "name": "birds",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/nest_with_birds.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/nest_with_birds.mp4",
+      "urlImage": "assets/images/cmm/page_1/birds.png",
+      "position": {
+        "y": 0.815,
+        "x": 0.76
+      }
+    },
+    {
+      "name": "duck",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/duck.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/duck.mp4",
+      "urlImage": "assets/images/cmm/page_1/duck.png",
+      "position": {
+        "y": 0.35,
+        "x": 0.3
+      }
+    }
+  ]
+}

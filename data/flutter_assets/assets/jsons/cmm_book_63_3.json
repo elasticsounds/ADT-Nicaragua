@@ -1,0 +1,55 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "63-2",
+  "pageNumberText": "Pag. 63 - Actividad 3",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_63_2.json",
+  "nextPage": "assets/jsons/cmm_book_64_1.json",
+  "signalLangVideo": "assets/videos/cmm/pag_63_act_3_orientation.mp4",
+  "narratorAudio": "audios/cmm/pag_63_act_3_orientation.mp3",
+  "backgroundImage": "",
+  "exerciseType": "",  
+  "content": [
+    {
+      "name": "txt_ex_3_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_3_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "txt_ex_3_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_3_objective.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "maestra.gif",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/maestra.gif",
+      "position": {
+        "y": 0.38,
+        "x": 0.5
+      }
+    }
+  ]
+}

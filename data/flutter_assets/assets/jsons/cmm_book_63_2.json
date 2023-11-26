@@ -1,0 +1,188 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "63-2",
+  "pageNumberText": "Pag. 63 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_63_1.json",
+  "nextPage": "assets/jsons/cmm_book_63_3.json",
+  "signalLangVideo": "assets/videos/cmm/pag_63_act_2_orientation.mp4",
+  "narratorAudio": "audios/cmm/pag_63_act_2.mp3",
+  "backgroundImage": "",
+  "exerciseType": "RandomPositioned",  
+  "content": [
+    {
+      "name": "txt_ex_2_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_63_act_2.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.45
+      }
+    },
+    {
+      "name": "txt_ex_2_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_63_act_2.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_objective.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "tree_v2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "assets/videos/cmm/parts_of_a_plant.mp4",
+      "urlImage": "assets/images/cmm/page_63/tree_v2.png",
+      "position": {
+        "y": 0.39,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_transparent.png",
+      "widgetType": "RandomPos",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/ex_2_transparent.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "1",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/stem_clue.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/stem.mp4",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_stem.png",
+      "tabIndex": 1,
+      "imgDecoration": {"hasBackground": "#84d2f9"},
+      "textDescription": "1",
+      "position": {
+        "y": 0.7,
+        "x": 0.1
+      },
+      "future_position": {
+        "y": 0.265,
+        "x": 0.62
+      }
+    },
+    {
+      "name": "2",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/flower_clue.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/flower.mp4",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_flower.png",
+      "tabIndex": 2,
+      "textDescription": "2",
+      "imgDecoration": {"hasBackground": "#84d2f9"},
+      "position": {
+        "y": 0.6,
+        "x": 0.1
+      },
+      "future_position": {        
+        "y": 0.625,
+        "x": 0.36
+      }
+    },
+    {
+      "name": "3",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/sheet_clue.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/leaf.mp4",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_leaf.png",
+      "tabIndex": 3,
+      "textDescription": "3",
+      "imgDecoration": {"hasBackground": "#84d2f9"},
+      "position": {
+        "y": 0.5,
+        "x": 0.1
+      },
+      "future_position": {                
+        "y": 0.435,
+        "x": 0.4
+      }
+    },
+    {
+      "name": "4",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_branch.png",
+      "tabIndex": 4,
+      "textDescription": "4",
+      "imgDecoration": {"hasBackground": "#84d2f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.1
+      },
+      "future_position": {        
+        "y": 0.29,
+        "x": 0.36
+      }
+    },
+    {
+      "name": "5",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/fruit_clue.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_fruit.png",
+      "tabIndex": 5,
+      "textDescription": "5",
+      "imgDecoration": {"hasBackground": "#84d2f9"},
+      "position": {
+        "y": 0.3,
+        "x": 0.1
+      },
+      "future_position": {
+        "y": 0.63,
+        "x": 0.66
+      }
+    },
+    {
+      "name": "6",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/root_clue.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_63/txt_ex_2_root.png",
+      "tabIndex": 6,
+      "textDescription": "6",
+      "imgDecoration": {"hasBackground": "#84d2f9"},
+      "position": {
+        "y": 0.2,
+        "x": 0.1
+      },
+      "future_position": {        
+        "y": 0.13,
+        "x": 0.37
+      }
+    }
+  ]
+}

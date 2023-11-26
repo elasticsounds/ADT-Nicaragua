@@ -1,0 +1,72 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "17-6",
+  "pageNumberText": "Pag. 17 - Ejercicio 6",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_17_5.json",
+  "nextPage": "assets/jsons/math_book_18_0.json",
+  "signalLangVideo": "assets/videos/pg_17_6_orientacion.mp4",
+  "narratorAudio": "audios/pg_17_6_orientacion.mp3",
+  "backgroundImage": "",
+  "exerciseType": "Choice",
+  "content": [    
+    {
+      "name": "title",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_17_6_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_17_6_orientacion.mp4",
+      "urlImage": "assets/images/page_17/txt_ex_6_title.png",
+      "textDescription": "Ejercicio 6.\n\nSeleccione el animal que representa el número 8",
+      "textStyle": {
+        "isBold": true
+      },
+      "position": {
+        "y": 0.95,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "title",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/pg_17_6_orientacion.mp3"],
+      "videoAccessibility": "assets/videos/pg_17_6_orientacion.mp4",
+      "urlImage": "assets/images/page_17/txt_ex_6_desc.png",
+      "textDescription": "Ejercicio 6.\n\nSeleccione el animal que representa el número 8",
+      "textStyle": {
+        "isBold": true
+      },
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ChoiceLeft",
+      "widgetType": "Choice",
+      "audioAccessibility": ["audios/turtle_7.mp3"],
+      "videoAccessibility": "assets/videos/turtle_7.mp4",
+      "urlImage": "assets/images/page_17/turtles.png",
+      "textDescription": "false",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "ChoiceRight",
+      "widgetType": "Choice",
+      "audioAccessibility": ["audios/penguin_8.mp3"],
+      "videoAccessibility": "assets/videos/penguin_8.mp4",
+      "urlImage": "assets/images/page_17/penguins.png",
+      "textDescription": "true",
+      
+      "position": {
+        "y": 0.4,
+        "x": 0.75
+      }
+    }       
+  ]
+}

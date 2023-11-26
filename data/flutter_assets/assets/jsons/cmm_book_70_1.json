@@ -1,0 +1,54 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "70-1",
+  "pageNumberText": "Pag. 70 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_69_2.json",
+  "nextPage": "assets/jsons/cmm_book_70_2.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "assets/images/cmm/page_70/ex_1_background.png",
+  "content": [
+    {
+      "name": "txt_ex_1_content.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_1_content.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_1_title.png",
+      "position": {
+        "y": 0.94,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "ex_1_background.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/ex_1_background.png",
+      "position": {
+        "y": 4,
+        "x": 0.5
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "82-2",
+  "pageNumberText": "Pag. 82 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_82_1_1.json",
+  "nextPage": "assets/jsons/cmm_book_83_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Positioned",
+  "content": [
+    {
+      "name": "txt_ex_2_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.2
+      }
+    },
+    {
+      "name": "txt_ex_2_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_2_objective.png",
+      "position": {
+        "y": 0.86,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_cow",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/ex_2_cow.png",
+      "position": {
+        "y": 0.325,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "ex_2_duck",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/ex_2_duck.png",
+      "position": {
+        "y": 0.28,
+        "x": 0.38
+      }
+    },
+    {
+      "name": "ex_2_hen",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/ex_2_hen.png",
+      "position": {
+        "y": 0.275,
+        "x": 0.63
+      }
+    },{
+      "name": "ex_2_cheep",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/ex_2_cheep.png",
+      "position": {
+        "y": 0.275,
+        "x": 0.87
+      }
+    },
+    {
+      "name": "txt_ex_2_cow",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_2_cow.png",
+      "tabIndex": 3,
+      "textDescription": "1",
+      "position": {
+        "y": 0.745,
+        "x": 0.6
+      },
+      "future_position": {
+        "y": 0.106,
+        "x": 0.168
+      }
+    },
+    {
+      "name": "txt_ex_2_duck",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_2_duck.png",
+      "tabIndex": 2,
+      "textDescription": "2",
+      "position": {
+        "y": 0.745,
+        "x": 0.4
+      },
+      "future_position": {
+        "y": 0.11,
+        "x": 0.399
+      }
+    },
+    {
+      "name": "txt_ex_2_hen",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_2_hen.png",
+      "tabIndex": 4,
+      "textDescription": "3",
+      "position": {
+        "y": 0.745,
+        "x": 0.8
+      },
+      "future_position": {
+        "y": 0.112,
+        "x": 0.65
+     }
+    },
+    {
+      "name": "txt_ex_2_cheep",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_82/txt_ex_2_cheep.png",
+      "tabIndex": 1,
+      "textDescription": "4",
+      "position": {
+        "y": 0.745,
+        "x": 0.2
+      },
+      "future_position": {
+        "y": 0.115,
+        "x": 0.89
+     }
+    }
+
+  ]
+}

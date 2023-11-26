@@ -1,0 +1,148 @@
+{
+    "name": "Libro de Conociendo Mi Mundo",
+    "grade": "2",
+    "pageNumber": "65-2",
+    "pageNumberText": "Pag. 65 - Actividad 2",
+    "unitNumber": "4",
+    "unitDescription": "",
+    "previusPage": "assets/jsons/cmm_book_65_1.json",
+    "nextPage": "assets/jsons/cmm_book_66_1.json",
+    "signalLangVideo": "",
+    "narratorAudio": "audios/cmm/pg_65_act_2.mp3",
+    "backgroundImage": "",
+    "exerciseType": "Positioned",  
+    "content": [
+      {
+        "name": "txt_ex_2_title.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_65_act_2.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/txt_ex_2_title.png",
+        "position": {
+          "y": 1,
+          "x": 0.37
+        }
+      },
+      {
+        "name": "txt_ex_2_objective_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_65_act_2.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/txt_ex_2_objective_2.png",
+        "position": {
+          "y": 0.8,
+          "x": 0.52
+        }
+      }, 
+      {
+        "name": "ex_2_picture_box.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          ""
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_2_picture_box.png",
+        "position": {
+          "y": 0.15,
+          "x": 0.25
+        }
+      },
+      {
+        "name": "ex_2_picture_box.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          ""
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_2_picture_box.png",
+        "position": {
+          "y": 0.15,
+          "x": 0.5
+        }
+      },
+      {
+        "name": "ex_2_picture_box.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          ""
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_2_picture_box.png",
+        "position": {
+          "y": 0.15,
+          "x": 0.75
+        }
+      },
+      {
+        "name": "ex_1_cheese.png",
+        "widgetType": "Positioned",
+        "audioAccessibility": [
+          "audios/cmm/plate_cheese.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_cheese.png",
+        "tabIndex": 1,
+        "textDescription": "3",
+        "imgDecoration": {
+          "useSuccessBG": true
+        },
+        "position": {
+          "y": 0.56,
+          "x": 0.27
+        },
+        "future_position": {
+            "y": 0.15,
+            "x": 0.77
+        }
+      },
+      {
+        "name": "ex_1_milker.png",
+        "widgetType": "Positioned",
+        "audioAccessibility": [
+          "audios/cmm/milker.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_milker.png",
+        "tabIndex": 2,
+        "textDescription": "1",
+        "imgDecoration": {
+          "useSuccessBG": true
+        },
+        "position": {
+          "y": 0.56,
+          "x": 0.52
+        },
+        "future_position": {
+            "y": 0.15,
+            "x": 0.27
+        }
+      },
+      {
+        "name": "ex_1_milk.png",
+        "widgetType": "Positioned",
+        "audioAccessibility": [
+          "audios/cmm/vase_milk.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_65/ex_1_milk.png",
+        "tabIndex": 3,
+        "textDescription": "2",
+        "imgDecoration": {
+          "useSuccessBG": true
+        },
+        "position": {
+          "y": 0.56,
+          "x": 0.77
+        },
+        "future_position": {
+            "y": 0.15,
+            "x": 0.52
+        }
+      }
+   
+    ]
+  }

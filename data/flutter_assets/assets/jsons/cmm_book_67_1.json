@@ -1,0 +1,107 @@
+{
+    "name": "Libro de Conociendo Mi Mundo",
+    "grade": "2",
+    "pageNumber": "67-1",
+    "pageNumberText": "Pag. 67 - Actividad 1",
+    "unitNumber": "4",
+    "unitDescription": "",
+    "previusPage": "assets/jsons/cmm_book_66_2.json",
+    "nextPage": "assets/jsons/cmm_book_67_2.json",
+    "signalLangVideo": "assets/videos/cmm/pag_67_act_1_orientation.mp4",
+    "narratorAudio": "audios/cmm/pg_67_act_1.mp3",
+    "backgroundImage": "",
+    "content": [
+      {
+        "name": "txt_ex_1_title.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_67_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_67/txt_ex_1_title.png",
+        "position": {
+          "y": 1,
+          "x": 0.37
+        }
+      },
+      {
+        "name": "txt_ex_1_objective_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_67_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_67/txt_ex_1_objective_2.png",
+        "position": {
+          "y": 0.8,
+          "x": 0.52
+        }
+      },
+      {
+        "name": "txt_ex_1_content.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_67_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_67/txt_ex_1_content.png",
+        "position": {
+          "y": 0.07,
+          "x": 0.5
+        }
+      }, 
+      {
+        "name": "ex_1_mud.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/clay_hand.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_67/ex_1_mud.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.13
+        }
+      },
+      {
+        "name": "ex_1_vase_1.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/molding_clay.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/clay.mp4",
+        "urlImage": "assets/images/cmm/page_67/ex_1_vase_1.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.36
+        }
+      },
+      {
+        "name": "ex_1_vase_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/jar_expo.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/vases_exhibition.mp4",
+        "urlImage": "assets/images/cmm/page_67/ex_1_vase_2.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.62
+        }
+      },
+      {
+        "name": "ex_1_vase_1.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/jar.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/decorative_vase.mp4",
+        "urlImage": "assets/images/cmm/page_67/ex_1_vase_3.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.88
+        }
+       
+      }
+    ]
+  }

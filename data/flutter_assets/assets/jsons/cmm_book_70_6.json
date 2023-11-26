@@ -1,0 +1,140 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "70-6",
+  "pageNumberText": "Pag. 70 - Actividad 6",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_70_5_3.json",
+  "nextPage": "assets/jsons/cmm_book_71_1_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+   
+    {
+      "name": "txt_ex_6_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_6_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "txt_ex_6_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_6_objective.png",
+      "position": {
+        "y": 0.87,
+        "x": 0.5
+      }
+    }, 
+   
+    {
+      "name": "ex_6_tiger.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_70/ex_6_tiger.png",
+      "tabIndex": 1,
+      "imgDecoration": {"hasBackground": "#2fb6f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.08
+      }
+    },
+    {
+      "name": "ex_6_heron.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_70/ex_6_heron.png",
+      "tabIndex": 2,
+      "imgDecoration": {"hasBackground": "#2fb6f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.26
+      }
+    },
+    {
+      "name": "ex_6_shark.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_70/ex_6_shark.png",
+      "tabIndex": 3,
+      "imgDecoration": {"hasBackground": "#2fb6f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.43
+      }
+    },
+    {
+      "name": "ex_6_eagle.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_70/ex_6_eagle.png",
+      "tabIndex": 4,
+      "imgDecoration": {"hasBackground": "#2fb6f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.61
+      }
+    },
+    {
+      "name": "ex_6_horse.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_70/ex_6_horse.png",
+      "tabIndex": 5,
+      "imgDecoration": {"hasBackground": "#2fb6f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.78
+      }
+    },
+    {
+      "name": "ex_6_fish.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_70/ex_6_fish.png",
+      "tabIndex": 6,
+      "imgDecoration": {"hasBackground": "#2fb6f9"},
+      "position": {
+        "y": 0.4,
+        "x": 0.94
+      }
+    }
+  ]
+}

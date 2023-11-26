@@ -1,0 +1,174 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "80-1",
+  "pageNumberText": "Pag. 80 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_79_0.json",
+  "nextPage": "assets/jsons/cmm_book_80_2.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+    {
+      "name": "txt_ex_1_act",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_act.png",
+      "position": {
+        "y": 1,
+        "x": 0.06
+      }
+    },
+    {
+      "name": "txt_ex_1_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_title.png",
+      "position": {
+        "y": 0.975,
+        "x": 0.29
+      }
+    },
+    {
+      "name": "txt_ex_1_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.95,
+        "x": 0.71
+      }
+    },
+     {
+      "name": "txt_ex_1_fruit_bike",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_fruit_bike.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.25
+      }
+    },
+    {
+      "name": "txt_ex_1_orange",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_orange.png",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.7,
+        "x": 0.63
+      }
+    },
+    {
+      "name": "txt_ex_1_tomato",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_tomato.png",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.5,
+        "x": 0.63
+      }
+    },
+    {
+      "name": "txt_ex_1_chiltoma",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_chiltoma.png",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.3,
+        "x": 0.63
+      }
+    },
+    {
+      "name": "txt_ex_1_banana",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_banana.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.15,
+        "x": 0.63
+      }
+    },
+    {
+      "name": "txt_ex_1_chili",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_chili.png",
+      "tabIndex": 5,
+      "position": {
+        "y": 0.7,
+        "x": 0.83
+      }
+    },
+    {
+      "name": "txt_ex_1_watermelon",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_watermelon.png",
+      "tabIndex": 6,
+      "position": {
+        "y": 0.5,
+        "x": 0.83
+      }
+    },
+    {
+      "name": "txt_ex_1_celery",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_80/txt_ex_1_celery.png",
+      "tabIndex": 7,
+      "position": {
+        "y": 0.3,
+        "x": 0.83
+      }
+    }
+
+  ]
+}

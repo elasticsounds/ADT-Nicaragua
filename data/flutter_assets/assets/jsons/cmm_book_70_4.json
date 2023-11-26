@@ -1,0 +1,42 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "70-4",
+  "pageNumberText": "Pag. 70 - Actividad 4",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_70_3.json",
+  "nextPage": "assets/jsons/cmm_book_70_5_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "content": [
+    {
+      "name": "txt_ex_4_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_4_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "ex_4_teacher.gif",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/ex_4_teacher.gif",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    }
+   
+  ]
+}

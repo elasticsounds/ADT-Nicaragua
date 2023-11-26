@@ -1,0 +1,105 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "76-1",
+  "pageNumberText": "Pag. 76 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_75_1.json",
+  "nextPage": "assets/jsons/cmm_book_77_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+   
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.45
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.86,
+        "x": 0.5
+      }
+    }, 
+   
+    {
+      "name": "ex_1_dog_1.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_76/ex_1_dog_1.png",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.42,
+        "x": 0.12
+      }
+    },
+    {
+      "name": "ex_1_dog_2.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_76/ex_1_dog_2.png",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.42,
+        "x": 0.38
+      }
+    },
+    {
+      "name": "ex_1_dog_3.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_76/ex_1_dog_3.png",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.42,
+        "x": 0.64
+      }
+    },
+    {
+      "name": "ex_1_dog_4.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_76/ex_1_dog_4.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.42,
+        "x": 0.89
+      }
+    }
+    
+  ]
+}

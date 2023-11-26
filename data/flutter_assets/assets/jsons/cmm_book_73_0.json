@@ -1,0 +1,43 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "73",
+  "pageNumberText": "Página",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_71_4_0.json",
+  "nextPage": "assets/jsons/cmm_book_74_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "content": [
+    {
+      "name": "txt_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_73/txt_title.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "sheep",
+      "widgetType": "Video",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_73/sheep.mp4",
+      "position": {
+        "y": 0.4,
+        "x": 0.5
+      }
+    }
+  ]
+}
+  
+  

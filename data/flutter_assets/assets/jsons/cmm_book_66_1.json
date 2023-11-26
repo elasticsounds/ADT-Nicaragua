@@ -1,0 +1,107 @@
+{
+    "name": "Libro de Conociendo Mi Mundo",
+    "grade": "2",
+    "pageNumber": "66-1",
+    "pageNumberText": "Pag. 66 - Actividad 1",
+    "unitNumber": "4",
+    "unitDescription": "",
+    "previusPage": "assets/jsons/cmm_book_65_2.json",
+    "nextPage": "assets/jsons/cmm_book_66_2.json",
+    "signalLangVideo": "assets/videos/cmm/pag_63_act_2_orientation.mp4",
+    "narratorAudio": "audios/cmm/pg_66_act_1.mp3",
+    "backgroundImage": "",
+    "content": [
+      {
+        "name": "txt_ex_1_title.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_66_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_66/txt_ex_1_title.png",
+        "position": {
+          "y": 1,
+          "x": 0.37
+        }
+      },
+      {
+        "name": "txt_ex_1_objective_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_66_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_66/txt_ex_1_objective_2.png",
+        "position": {
+          "y": 0.8,
+          "x": 0.52
+        }
+      },
+      {
+        "name": "txt_ex_1_content.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/pg_66_act_1.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_66/txt_ex_1_content.png",
+        "position": {
+          "y": 0.07,
+          "x": 0.5
+        }
+      }, 
+      {
+        "name": "ex_1_cane_1.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/cane_field.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/cane_plantation.mp4",
+        "urlImage": "assets/images/cmm/page_66/ex_1_cane_1.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.13
+        }
+      },
+      {
+        "name": "ex_1_cane_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/stacked_cane.mp3"
+        ],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/cmm/page_66/ex_1_cane_2.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.36
+        }
+      },
+      {
+        "name": "ex_1_sugar_1.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/packed_sugar.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/sugar_in_bag.mp4",
+        "urlImage": "assets/images/cmm/page_66/ex_1_sugar_1.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.62
+        }
+      },
+      {
+        "name": "ex_1_sugar_2.png",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/cmm/sugar.mp3"
+        ],
+        "videoAccessibility": "assets/videos/cmm/spoon_with_sugar.mp4",
+        "urlImage": "assets/images/cmm/page_66/ex_1_sugar_2.png",
+        "position": {
+          "y": 0.45,
+          "x": 0.88
+        }
+       
+      }
+    ]
+  }

@@ -1,0 +1,83 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "21-3",
+  "pageNumberText": "Pag. 21 - Ejercicio 3",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_21_1.json",
+  "nextPage": "assets/jsons/math_book_21_3.json",
+  "signalLangVideo": "assets/videos/pg_21_3_orientacion.mp4",
+  "narratorAudio": "audios/pg_21_3_orientacion.mp3",
+  "backgroundImage": "",
+  "exerciseType": "IncrementIndex",
+  "content": [
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_21_3_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_21_3_orientacion.mp4",
+        "urlImage": "assets/images/page_21/txt_ex_3_title.png",
+        "textDescription": "Ejercicio 3.\n\n¿Cuántos patos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+            "y": 0.8,
+            "x": 0.1
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_21_3_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_21_3_orientacion.mp4",
+        "urlImage": "assets/images/page_21/txt_ex_3_question.png",
+        "textDescription": "Ejercicio 3.\n\n¿Cuántos patos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+            "y": 0.7,
+            "x": 0.25
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_21_3_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_21_3_orientacion.mp4",
+        "urlImage": "assets/images/page_21/txt_ex_3_desc.png",
+        "textDescription": "Ejercicio 3.\n\n¿Cuántos patos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "position": {
+            "y": 0.7,
+            "x": 0.75
+        }
+    },
+    {
+      "name": "grid",
+      "widgetType": "RadioButton",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/grid/zero.png",
+      "textDescription": "10",      
+      "position": {
+        "y": 0.35,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "duck",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/duck_10.mp3"],
+      "videoAccessibility": "assets/videos/duck_10.mp4",
+      "urlImage": "assets/images/page_21/ducks.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.35,
+        "x": 0.25
+      }
+    }
+  ]
+}

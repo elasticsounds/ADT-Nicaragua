@@ -1,0 +1,146 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "58-2",
+  "pageNumberText": "Pag. 58 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "diferencia a los seres vivos de los objetos que no tienen vida",
+  "previusPage": "assets/jsons/cmm_book_58_1.json",
+  "nextPage": "assets/jsons/cmm_book_58_3.json",
+  "signalLangVideo": "assets/videos/cmm/pag_58_act_2_orientation.mp4",
+  "narratorAudio": "audios/cmm/pag_58_act_2_orientation.mp3",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+    {
+      "name": "txt_ex_2_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_2_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "txt_ex_2_description.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_2_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_2_description.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.315
+      }
+    },
+    {
+      "name": "txt_ex_2_orientation.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_2_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_2_orientation.png",
+      "position": {
+        "y": 0.7,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_house.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/house.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/house.mp4",
+      "urlImage": "assets/images/cmm/page_2/ex_2_house.png",
+      "textDescription": "false",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.49,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "ex_2_dog.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/dog.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/dog.mp4",
+      "urlImage": "assets/images/cmm/page_2/ex_2_dog.png",
+      "textDescription": "true",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.49,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_fence.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/fence.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/fence.mp4",
+      "urlImage": "assets/images/cmm/page_2/ex_2_fence.png",
+      "textDescription": "false",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.49,
+        "x": 0.89
+      }
+    },
+    {
+      "name": "ex_2_cow.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/cow.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/cow.mp4",
+      "urlImage": "assets/images/cmm/page_2/ex_2_cow.png",
+      "textDescription": "true",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.15,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "ex_2_bridge.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/bridge.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/bridge.mp4",
+      "urlImage": "assets/images/cmm/page_2/ex_2_bridge.png",
+      "textDescription": "false",
+      "tabIndex": 5,
+      "position": {
+        "y": 0.15,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_monkey.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/monkey.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/monkey.mp4",
+      "urlImage": "assets/images/cmm/page_2/ex_2_monkey.png",
+      "textDescription": "true",
+      "tabIndex": 6,
+      "position": {
+        "y": 0.15,
+        "x": 0.89
+      }
+    }
+
+  ]
+}

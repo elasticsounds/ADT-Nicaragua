@@ -1,0 +1,113 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "61-4",
+  "pageNumberText": "Pag. 61 - Actividad 4",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_61_3.json",
+  "nextPage": "assets/jsons/cmm_book_61_5.json",
+  "signalLangVideo": "assets/videos/cmm/pag_61_act_4_orientation.mp4",
+  "narratorAudio": "audios/cmm/pag_61_act_4.mp3",
+  "backgroundImage": "",
+  "exerciseType": "Positioned",
+  "content": [
+    {
+      "name": "txt_ex_4_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_61_act_4.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/txt_ex_4_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.4
+      }
+    },
+    {
+      "name": "txt_ex_4_objective_2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_61_act_4.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/txt_ex_4_objective_2.png",
+      "position": {
+        "y": 0.8,
+        "x": 0.51
+      }
+    },
+    {
+      "name": "ex_4_backgraund.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_61/ex_4_background.png",
+      "position": {
+        "y": 0.4,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ex_4_dog_2.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/young_dog.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/young_dog.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_4_dog_2.png",
+      "tabIndex": 3,
+      "textDescription": "2",
+      "position": {
+        "y": 0.4,
+        "x": 0.36
+      },
+  	  "future_position": {
+        "y": 0.4,
+        "x": 0.72
+      }
+    },
+    {
+      "name": "ex_4_dog_3.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/adult_dog.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/adult_dog.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_4_dog_3.png",
+      "tabIndex": 2,
+      "textDescription": "3",
+      "position": {
+        "y": 0.425,
+        "x": 0.2
+      },
+      "future_position": {
+        "y": 0.42,
+        "x": 0.835
+      }
+    },
+    {
+      "name": "ex_4_dog_1.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        "audios/cmm/puppy_dog.mp3"
+      ],
+      "videoAccessibility": "assets/videos/cmm/puppy_dog.mp4",
+      "urlImage": "assets/images/cmm/page_61/ex_4_dog_1.png",
+      "tabIndex": 1,
+      "textDescription": "1",
+      "position": {
+        "y": 0.39,
+        "x": 0.05
+      },
+  	  "future_position": {
+        "y": 0.39,
+        "x": 0.58
+      
+      }
+    }
+  ]
+}

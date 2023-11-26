@@ -1,0 +1,135 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "81-2",
+  "pageNumberText": "Pag. 81 - Actividad 2",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_81_1.json",
+  "nextPage": "assets/jsons/cmm_book_82_1_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+   
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_81/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.32
+      }
+    },
+    {
+      "name": "txt_ex_1_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_81/txt_ex_1_objective.png",
+      "position": {
+        "y": 0.86,
+        "x": 0.5
+      }
+    }, 
+   
+    {
+      "name": "ex_2_hen.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_81/ex_2_hen.png",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.42,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "ex_2_cat.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_81/ex_2_cat.png",
+      "tabIndex": 2,
+      "position": {
+        "y": 0.42,
+        "x": 0.27
+      }
+    },
+    {
+      "name": "ex_2_pig.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_81/ex_2_pig.png",
+      "tabIndex": 3,
+      "position": {
+        "y": 0.42,
+        "x": 0.42
+      }
+    },
+    {
+      "name": "ex_2_dog.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_81/ex_2_dog.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.42,
+        "x": 0.57
+      }
+    },
+    {
+      "name": "ex_2_cow.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "true",
+      "urlImage": "assets/images/cmm/page_81/ex_2_cow.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.42,
+        "x": 0.72
+      }
+    }, 
+    {
+      "name": "ex_2_chocoyo.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "textDescription": "false",
+      "urlImage": "assets/images/cmm/page_81/ex_2_chocoyo.png",
+      "tabIndex": 4,
+      "position": {
+        "y": 0.42,
+        "x": 0.9
+      }
+    }
+    
+  ]
+}

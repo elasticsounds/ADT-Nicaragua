@@ -1,0 +1,112 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "70-3",
+  "pageNumberText": "Pag. 70 - Actividad 3",
+  "unitNumber": "4",
+  "unitDescription": "",
+  "previusPage": "assets/jsons/cmm_book_70_2.json",
+  "nextPage": "assets/jsons/cmm_book_70_4.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Positioned",
+  "content": [
+    {
+      "name": "txt_ex_3_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_3_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.28
+      }
+    },
+    {
+      "name": "txt_ex_3_objective.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/txt_ex_3_objective.png",
+      "position": {
+        "y": 0.87,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_3_background.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/ex_3_background.png",
+      "position": {
+        "y": 0.43,
+        "x": 0.72
+      }
+    },
+    {
+      "name": "ex_3_elephant.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/ex_3_elephant.png",
+      "tabIndex": 3,
+      "textDescription": "1",
+      "position": {
+        "y": 0.55,
+        "x": 0.34
+      },
+      "future_position": {
+        "y": 0.47,
+        "x": 0.59
+      }
+    },
+    {
+      "name": "ex_3_horse.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/ex_3_horse.png",
+      "tabIndex": 2,
+      "textDescription": "2",
+      "position": {
+        "y": 0.22,
+        "x": 0.24
+      },
+      "future_position": {
+        "y": 0.43,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "ex_3_cat.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_70/ex_3_cat.png",
+      "tabIndex": 1,
+      "textDescription": "3",
+      "position": {
+        "y": 0.4,
+        "x": 0.1
+      },
+      "future_position": {
+        "y": 0.4,
+        "x": 0.9
+      }
+    }
+  ]
+}

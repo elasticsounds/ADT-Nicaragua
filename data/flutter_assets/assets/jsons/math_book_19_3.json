@@ -1,0 +1,93 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "19-5",
+  "pageNumberText": "Pag. 19 - Ejercicio 5",
+  "unitNumber": "1",
+  "unitDescription": "Números del 1 al 10",
+  "previusPage": "assets/jsons/math_book_19_2_5.json",
+  "nextPage": "assets/jsons/math_book_19_4.json",
+  "signalLangVideo": "assets/videos/pg_19_5_orientacion.mp4",
+  "narratorAudio": "audios/pg_19_5_orientacion.mp3",
+  "backgroundImage": "",
+  "exerciseType": "IncrementIndex",
+  "content": [
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_19_5_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_19_5_orientacion.mp4",
+        "urlImage": "assets/images/page_19/txt_ex_5_title.png",
+        "textDescription": "Ejercicio 5.\n\n¿Cuántos pollos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "textStyle": {
+            "isBold": true
+        },
+        "position": {
+            "y": 0.8,
+            "x": 0.1
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_19_5_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_19_5_orientacion.mp4",
+        "urlImage": "assets/images/page_19/txt_ex_5_question.png",
+        "textDescription": "Ejercicio 5.\n\n¿Cuántos pollos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "textStyle": {
+            "isBold": true
+        },
+        "position": {
+            "y": 0.7,
+            "x": 0.25
+        }
+    },
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_19_5_orientacion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_19_5_orientacion.mp4",
+        "urlImage": "assets/images/page_19/txt_ex_5_desc.png",
+        "textDescription": "Ejercicio 5.\n\n¿Cuántos pollos hay?\t\tColorea la cantidad de circulos que corresponden",
+        "textStyle": {
+            "isBold": true
+        },
+        "position": {
+            "y": 0.7,
+            "x": 0.75
+        }
+    },
+    {
+      "name": "grid",
+      "widgetType": "RadioButton",
+      "audioAccessibility": [""],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/grid/zero.png",
+      "textDescription": "7",
+      
+      "position": {
+        "y": 0.35,
+        "x": 0.75
+      }
+    },
+    {
+      "name": "chicken",
+      "widgetType": "Image",
+      "audioAccessibility": ["audios/chicken_7.mp3"],
+      "videoAccessibility": "assets/videos/chicken_7.mp4",
+      "urlImage": "assets/images/page_19/chickens.png",
+      "textDescription": "",
+      
+      "position": {
+        "y": 0.35,
+        "x": 0.25
+      }
+    }
+  ]
+}

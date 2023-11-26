@@ -1,0 +1,149 @@
+{
+    "name": "Libro de Matemáticas",
+    "grade": "1",
+    "pageNumber": "12",
+    "pageNumberText": "doce",
+    "unitNumber": "1",
+    "unitDescription": "Números del 1 al 10",
+    "previusPage": "assets/jsons/math_book_index.json",
+    "nextPage": "assets/jsons/math_book_12_1.json",
+    "signalLangVideo": "assets/videos/pg_12_descripcion.mp4",
+    "narratorAudio": "audios/pg_12_descripcion.mp3",
+    "backgroundImage": "assets/images/page_12/background.png",
+    "content": [
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_12_descripcion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_12_descripcion.mp4",
+        "urlImage": "assets/images/page_12/txt_pg_12_title.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": true
+        },
+        "position": {"y": 1.0,
+            "x": 0.2
+        }
+    }, 
+    {
+        "name": "title",
+        "widgetType": "Image",
+        "audioAccessibility": [
+          "audios/pg_12_descripcion.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg_12_descripcion.mp4",
+        "urlImage": "assets/images/page_12/txt_pg_12_desc.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": true
+        },
+        "position": {
+            "y": 0.93,
+            "x": 0.2
+        }
+    }, 
+    {
+        "name": "lion_2",
+        "widgetType": "Image",
+        "audioAccessibility": [""],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/pg_12_tree.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.72,
+            "x": 0.65
+        }
+    }, 
+    {
+        "name": "lion_2",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/pg_12_lion_2.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.55,
+            "x": 0.35
+        }
+    },          
+    {
+        "name": "lion_1",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/pg_12_lion_1.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.4,
+            "x": 0.6
+        }
+    },
+    {
+        "name": "butterfly",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/mariposa.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_mariposa.mp4",
+        "urlImage": "assets/images/pg_12_butterfly.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.15,
+            "x": 0.65
+        }
+    },
+    {
+        "name": "elefant_car",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/elefante.mp3",
+            "audios/page_12/mariposa.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_elefante.mp4",
+        "urlImage": "assets/images/pg_12_elephant.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.15,
+            "x": 0.15
+        }
+    },    
+    {
+        "name": "tiger",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/tigre.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_tigre.mp4",
+        "urlImage": "assets/images/pg_12_tiger.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": true
+        },
+        "position": {
+            "y": 0.15,
+            "x": 0.9
+        }
+    }
+]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "90-3",
+  "pageNumberText": "Pag. 90 - Actividad 3",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_90_3_0.json",
+  "nextPage": "assets/jsons/cmm_book_90_3_2.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Positioned",
+  "content": [
+    {
+      "name": "ex_3_background_2.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/ex_3_background_2.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_3_house.png",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/ex_3_house.png",
+      "tabIndex": 1,
+      "textDescription": "false",
+      "position": {
+        "y": 0.65,
+        "x": 0.77
+      }
+    },
+    {
+      "name": "ex_3_trash.png",
+      "widgetType": "Choice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/ex_3_trash.png",
+      "tabIndex": 2,
+      "textDescription": "false",
+      "position": {
+        "y": 0.36,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "ex_3_fire.png",
+      "widgetType": "Positioned",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_90/ex_3_fire.png",
+      "tabIndex": 3,
+      "textDescription": "1",
+      "position": {
+        "y": 0.15,
+        "x": 0.8
+      },
+      "future_position": {
+        "y": 0.45,
+        "x": 0.26
+     }
+    }
+
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "76-1",
+  "pageNumberText": "Pag. 76 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_76_1.json",
+  "nextPage": "assets/jsons/cmm_book_77_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "Toggle",
+  "content": [
+    {
+      "name": "txt_ex_2_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/txt_ex_2_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.45
+      }
+    },
+    {
+      "name": "txt_ex_2_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/txt_ex_2_objective.png",
+      "position": {
+        "y": 0.88,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_hands.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/ex_2_hands.png",
+      "textDescription": "assets/jsons/cmm_book_76_2_2.json",
+      "position": {
+        "y": 0.5,
+        "x": 0.18
+      }
+    },
+    {
+      "name": "ex_2_man_1.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/ex_2_man_1.png",
+      "textDescription": "assets/jsons/cmm_book_76_2_3.json",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_2_man_2.png",
+      "widgetType": "Redirect",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/ex_2_man_2.png",
+      "textDescription": "assets/jsons/cmm_book_76_2_4.json",
+      "position": {
+        "y": 0.5,
+        "x": 0.82
+      }
+    },
+    {
+      "name": "txt_ex_2_man_2",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_76/txt_ex_2_man_2.png",
+      "position": {
+        "y": 0.2,
+        "x": 0.82
+      }
+    }
+
+  ]
+}

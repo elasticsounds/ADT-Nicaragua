@@ -1,0 +1,15 @@
+{
+  "name": "Libro de Matemáticas",
+  "grade": "1",
+  "pageNumber": "-",
+  "pageNumberText": "",
+  "unitNumber": "4",
+  "unitDescription": "Cuento y Leo desde 1 hasta 10",
+  "previusPage": "",
+  "nextPage": "assets/jsons/math_book_index.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "assets/images/math_frontpage.png",
+  "content": [
+  ]
+}

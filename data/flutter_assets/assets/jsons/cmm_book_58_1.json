@@ -1,0 +1,43 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "58-1",
+  "pageNumberText": "Pag. 58 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "observa y escucha",
+  "previusPage": "assets/jsons/cmm_book_58_0.json",
+  "nextPage": "assets/jsons/cmm_book_58_2.json",
+  "signalLangVideo": "assets/videos/cmm/pag_58_act_1_orientation_description.mp4",
+  "narratorAudio": "audios/cmm/pag_58_act_1_orientation_description.mp3",
+  "backgroundImage": "assets/images/cmm/page_2/ex_1_background.png",
+  "content": [
+    {
+      "name": "txt_ex_1_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_1_orientation_description.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_1_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "txt_ex_1_desc.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_1_orientation_description.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_1_desc.png",
+      "position": {
+        "y": 1,
+        "x": 0.3
+      }
+    }
+  
+    
+  ]
+}

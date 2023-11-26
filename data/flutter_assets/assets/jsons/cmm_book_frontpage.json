@@ -1,0 +1,15 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "-",
+  "pageNumberText": "",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "",
+  "nextPage": "assets/jsons/cmm_book_57_0.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "assets/images/cmm_frontpage.jpg",
+  "content": [
+  ]
+}

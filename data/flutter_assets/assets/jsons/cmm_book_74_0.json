@@ -1,0 +1,95 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "74",
+  "pageNumberText": "Página",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_73_0.json",
+  "nextPage": "assets/jsons/cmm_book_75_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "content": [
+    {
+      "name": "txt_title",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_74/txt_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.32
+      }
+    },
+    {
+      "name": "txt_description",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_74/txt_description.png",
+      "position": {
+        "y": 0.93,
+        "x": 0.15
+      }
+    },
+    {
+      "name": "txt_objective",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_74/txt_objective.png",
+      "position": {
+        "y": 0.85,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "txt_company",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_74/txt_company.png",
+      "position": {
+        "y": 0.6,
+        "x": 0.3
+      }
+    },
+    {
+      "name": "txt_job",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_74/txt_job.png",
+      "position": {
+        "y": 0.6,
+        "x": 0.7
+      }
+    },
+    {
+      "name": "txt_food",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_74/txt_food.png",
+      "position": {
+        "y": 0.15,
+        "x": 0.5
+      }
+    }
+  ]
+}
+  
+  

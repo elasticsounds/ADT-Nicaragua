@@ -1,0 +1,149 @@
+{
+    "name": "Libro de Matemáticas",
+    "grade": "1",
+    "pageNumber": "12",
+    "pageNumberText": "doce",
+    "unitNumber": "1",
+    "unitDescription": "Números del 1 al 10",
+    "previusPage": "",
+    "nextPage": "assets/jsons/math_book_12_1.json",
+    "signalLangVideo": "assets/videos/pg12_orientacion.mp4",
+    "narratorAudio": "audios/page_12/audio_test.mp3",
+    "backgroundImage": "assets/images/world/background.png",
+    "content": [
+    {
+        "name": "lion_2",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/world/unit.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 1.115,
+            "x": 0.22
+        }
+    },          
+    {
+        "name": "butterfly",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/mariposa.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_mariposa.mp4",
+        "urlImage": "assets/images/world/text1.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 1.01,
+            "x": 0.44
+        }
+    },
+    {
+        "name": "elefant_car",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/elefante.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_elefante.mp4",
+        "urlImage": "assets/images/world/bridge.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.85,
+            "x": 0.241
+        }
+    },
+    {
+        "name": "tree",
+        "widgetType": "Image",
+        "audioAccessibility": [""],
+        "videoAccessibility": "",
+        "urlImage": "assets/images/world/bar.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.085,
+            "x": 1.16
+        }
+    },
+    {
+        "name": "lion_1",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/world/text2.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.04,
+            "x": 0.75
+        }
+    },
+    {
+        "name": "lion_1",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/world/duck.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.5,
+            "x": 0.38
+        }
+    },
+    {
+        "name": "lion_1",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/world/dog.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.35,
+            "x": 0.5
+        }
+    },
+    {
+        "name": "lion_1",
+        "widgetType": "Image",
+        "audioAccessibility": [
+            "audios/page_12/leon_3.mp3"
+        ],
+        "videoAccessibility": "assets/videos/pg12_leon_3.mp4",
+        "urlImage": "assets/images/world/horse.png",
+        "textDescription": "",
+        "textStyle": {
+            "isBold": false
+        },
+        "position": {
+            "y": 0.54,
+            "x": 0.8
+        }
+    }
+]
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "-",
+  "pageNumberText": "Pag. 58 - Actividad 3",
+  "unitNumber": "4",
+  "unitDescription": "Que tienen en común los animales, las plantas y las personas",
+  "previusPage": "assets/jsons/cmm_book_58_2.json",
+  "nextPage": "assets/jsons/cmm_book_59_1_1.json",
+  "signalLangVideo": "assets/videos/cmm/pag_58_act_3_orientation.mp4",
+  "narratorAudio": "audios/cmm/pag_58_act_3_orientation.mp3",
+  "backgroundImage": "",
+  "exerciseType": "MultiChoice",
+  "content": [
+    {
+      "name": "txt_ex_3_title.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_3_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_3_title.png",
+      "position": {
+        "y": 1,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "txt_ex_3_description.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_3_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_3_description.png",
+      "position": {
+        "y": 0.9,
+        "x": 0.33
+      }
+    },
+    {
+      "name": "txt_ex_3_01.png",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        "audios/cmm/pag_58_act_3_orientation.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/txt_ex_3_01.png",
+      "position": {
+        "y": 0.74,
+        "x": 0.5
+      }
+    },
+    {
+      "name": "ex_3_hen.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/nacen.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/ex_3_hen.png",
+      "textDescription": "true",
+      "tabIndex": 1,
+      "position": {
+        "y": 0.4,
+        "x": 0.1
+      }
+    },
+    {
+      "name": "ex_3_door_man.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/created_by_man.mp3"
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_2/ex_3_door_man.png",
+      "tabIndex": 2,
+      "textDescription": "false",
+      "position": {
+        "y": 0.4,
+        "x": 0.38
+      }
+    },
+    {
+      "name": "ex_3_chair.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        "audios/cmm/wooden_chair.mp3"
+      ],
+      "videoAccessibility": "audios/cmm/they_dont_move_alone.mp3",
+      "urlImage": "assets/images/cmm/page_2/ex_3_chair.png",
+      "tabIndex": 3,
+      "textDescription": "false",
+      "position": {
+        "y": 0.4,
+        "x": 0.65
+      }
+    },
+    {
+      "name": "ex_3_corns.png",
+      "widgetType": "MultiChoice",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "audios/cmm/it_davelops.mp3",
+      "urlImage": "assets/images/cmm/page_2/ex_3_corns.png",
+      "tabIndex": 4,
+      "textDescription": "true",
+      "position": {
+        "y": 0.4,
+        "x": 0.9
+      }
+    }
+  ]
+}
+   

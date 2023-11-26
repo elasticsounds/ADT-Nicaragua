@@ -1,0 +1,39 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "89",
+  "pageNumberText": "Pag. 89",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_88_1.json",
+  "nextPage": "assets/jsons/cmm_book_90_1.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "",
+    "video": "",
+    "title": "Oxigeno",
+    "description": "",
+    "img": "assets/images/cmm/page_89/glossary_2.png"
+  },
+  "content": [
+  
+    {
+      "name": "glossary_1.mp4",
+      "widgetType": "Image",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_89/glossary_1.png",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    }
+
+  ]
+}

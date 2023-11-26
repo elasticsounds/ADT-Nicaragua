@@ -1,0 +1,39 @@
+{
+  "name": "Libro de Conociendo Mi Mundo",
+  "grade": "2",
+  "pageNumber": "81-1",
+  "pageNumberText": "Pag. 81 - Actividad 1",
+  "unitNumber": "4",
+  "unitDescription": "Lo que nos rodea",
+  "previusPage": "assets/jsons/cmm_book_80_2.json",
+  "nextPage": "assets/jsons/cmm_book_81_2.json",
+  "signalLangVideo": "",
+  "narratorAudio": "",
+  "backgroundImage": "",
+  "exerciseType": "",
+  "hasGlossary": "true",
+  "glossary": {
+    "audio": "",
+    "video": "",
+    "title": "Nutrientes",
+    "description": "",
+    "img": "assets/images/cmm/page_81/txt_ex_1_glosary.png"
+  },
+  "content": [
+  
+    {
+      "name": "video_maestro.mp4",
+      "widgetType": "Video",
+      "audioAccessibility": [
+        ""
+      ],
+      "videoAccessibility": "",
+      "urlImage": "assets/images/cmm/page_81/video_maestro.mp4",
+      "position": {
+        "y": 0.5,
+        "x": 0.5
+      }
+    }
+
+  ]
+}
